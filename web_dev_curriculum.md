@@ -1,3 +1,4 @@
+# Short-Term-web-dev-lessons
 # Web Development Fundamentals Course
 
 > An 8-lesson curriculum teaching HTML, CSS, and JavaScript from scratch
